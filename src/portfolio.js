@@ -32,7 +32,7 @@ const projects = [
       'Built TuneHive, a Spotify-like music player using HTML, CSS and Javascript. ',
     stack: ['HTML', 'CSS', 'JAVASCRIPT'],
     sourceCode: 'https://github.com/SaurabhK85/TuneHive',
-    livePreview: 'https://www.example.com',
+    livePreview: 'https://tune-hive-tawny.vercel.app/',
     image:'https://cdn.pixabay.com/photo/2015/09/21/00/54/plant-949111_640.jpg'
   },
   {
