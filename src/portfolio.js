@@ -13,7 +13,7 @@ const about = [{
   role: ' Passionate Full Stack Web Developer 👨‍💻 ',
   description:
     "Let’s build something amazing together.",
-  resume: 'https://drive.google.com/file/d/1i8xj0hkCAjlFGXihxMpeH0156TwtUc7H/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1pyFaMUb28vzi83JO6Q2mt0BEFrbue5R_/view?usp=sharing',
   
 }]
 
